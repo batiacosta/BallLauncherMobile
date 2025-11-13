@@ -187,7 +187,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 4248489594606655374}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2f2d1d88b365e4d76aab02417d07e8f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 6a09f844afc3740c0a7d6ade588b38b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Ball
-  CanDetach: 0
