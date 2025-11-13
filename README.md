@@ -8,6 +8,9 @@ The player launches a ball by tapping (mobile) or clicking (desktop). Each tap a
 
 Key scene: `Assets/Scenes/Level1.unity`
 
+![Ball launcher mobile](https://github.com/user-attachments/assets/0d2a4960-e721-472b-92c6-0dad2088145b)
+
+
 ## What’s included
 
 - A playable sample scene: `Assets/Scenes/Level1.unity`
