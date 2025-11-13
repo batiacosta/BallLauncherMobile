@@ -1,6 +1,6 @@
 # BallLauncherMobile
 
-A small mobile-friendly Unity game where you launch a ball in a Flappy-Bird-like style. The project was updated to Unity 6 and is kept intentionally small so you can inspect the scripts, tweak physics, and export mobile builds quickly.
+A small mobile-friendly Unity game where you launch a ball in an Angry-birds like style. The project was updated to Unity 6 and is kept intentionally small so you can inspect the scripts, tweak physics, and export mobile builds quickly.
 
 ## Demo / Gameplay
 
